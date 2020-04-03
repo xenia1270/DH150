@@ -1,9 +1,9 @@
-# DH150 -- Asssignment 1
+# DH150 -- Asssignment 1: Heuristic Evaluation of Two Websites
 
 ## Website 1: Philips - https://www.usa.philips.com/
 
 ## Description about your motivation/relevance + initial overall evaluation about web/app before heuristic evaluation: 
-I choose to evaluate Philips company website because I recently started using its Sonicare electric toothbrush. I am interested in learning more about Philips products and how its product design became so successful. I know that Philips is one of the largest electronics companies in the world, and it has received awards for its industrial design. However, Philips' focus on product design does not mean they also have good website design. Before I started the heuristic evaluation, my overall feeling is that Philips has its products well listed under corresponding categories. However, different product pages have different background colors, which may make users feel overwhelmed and need to adapt to the change. 
+I choose to evaluate Philips company website because I recently started using its Sonicare electric toothbrush. I am interested in learning more about Philips products and how its product design became so successful. I know that Philips is one of the largest electronics companies in the world, and it has received awards for its industrial design. However, Philips' focus on product design does not mean they also have good website design. Before I started the heuristic evaluation, my overall feeling is that Philips has its products well listed under corresponding categories. However, different product pages have different background colors, which may make users feel overwhelmed and need to adapt to the change. Additionally, there is a problem about information overload, which may result in high consumers turnover rate.
 
 ## Brief information about the website: 
 The website lists out all the products and services provided by Philips. It enables customers to browse a broader range of products, including size, color. For particular products, the site offers product presentations to provide users with an immersive shopping experience.
@@ -78,3 +78,46 @@ Severity Rating: 1/3
 
 ![Helps 1](https://github.com/xenia1270/DH150/blob/master/Picture13.png)
 ![Helps 2](https://github.com/xenia1270/DH150/blob/master/Picture14.png)
+
+
+
+
+## Website 2:
+
+## Description about your motivation/relevance + initial overall evaluation about web/app before heuristic evaluation: 
+
+## Brief information about the website: 
+
+
+## Heuristic Evaluation:
+
+### 1 - Visibility of system status -- the system should provide feedbacks of users’ action and show progress status
+
+
+### 2 - Match between system and the real world -- the system should use words or icons that are familiar to users
+
+
+### 3 - User control and freedom -- the system should provide redo and undo functions if users choose system functions by mistake
+
+
+### 4 - Consistency and standards -- the system should follow consistent conventions, so users would get the results they expect under the same operation across sites
+
+
+### 5 - Error prevention -- prevent an error before it occurs, and a provide users with a confirmation option
+
+
+### 6 - Recognition rather than recall -- minimize users memory by giving more hints
+
+
+### 7 - Flexibility and efficiency of use -- offer shortcuts or advanced options to improve efficiency
+
+
+### 8 - Aesthetic and minimalist design -- only present useful and relevant information
+
+
+### 9 - Help users recognize, diagnose, and recover from errors -- when error occurs, the system should provide suggestions on how to fix it
+
+
+### 10 - Help and documentation -- allow users to search for help easily
+
+
