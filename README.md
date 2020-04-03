@@ -14,8 +14,7 @@ Philips ensures that users receive feedback on their actions. When users add a p
 Severity Rating: 1/3
 
 ![Feedback 1](https://github.com/xenia1270/DH150/blob/master/Picture1.png)
-![Feedback 2](https://github.com/xenia1270/DH150/blob/master/Picture2.png)
-![Feedback 3](https://github.com/xenia1270/DH150/blob/master/Picture3.png)
+![Feedback 2](https://github.com/xenia1270/DH150/blob/master/Picture3.png)
 ### 2 - Match between system and the real world -- the system should use words or icons that are familiar to users
 The products categories have recognizable icons, so users can quickly find the desired products. However, users may find the Accessories section confusing as the icon shows three products requires some inferences. Moreover, the online experience does not replicate the familiarity of offline actions. When customers shop in a store, they would pick up a product and look at it from a different angle. However, most of the product photos on Philips website only display one angle, which lacks proximities to enhance users online shopping experience. 
 Severity Rating: 3/3
