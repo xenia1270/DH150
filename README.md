@@ -30,9 +30,14 @@ Severity Rating: 3/3
 If users find that they are viewing a wrong product, they can switch the pages from one product to another by simply clicking the “Products” button and choosing from the categories. However, if users are accidently in the “Men's Grooming Tools” page, the “Products” button is not working and users cannot go back to the categories section, unless they go back to the homepage and start from the beginning. Additionally, even though there are some products displayed on the homepage, the icon of  the shopping cart is not shown, which creates disadvantages for users who want to review their shopping cart when they are on the homepage. Another problem is that if users don’t subscribe to their newsletter, the notification will be shown on every page and cannot be turned off.
 Severity Rating: 3/3
 
+![Freedom 1](https://github.com/xenia1270/DH150/blob/master/Picture16.png)
+
 ### 4 - Consistency and standards -- the system should follow consistent conventions, so users would get the results they expect under the same operation across sites
 Different product pages have different layout design and colors, which makes users overwhelmed, and users need time to adapt to the change. Also, some icons are not consistent when referring to the same products/services.
 Severity Rating: 3/3
+
+![Consistency 1](https://github.com/xenia1270/DH150/blob/master/Picture9.png)
+![Consistency 2](https://github.com/xenia1270/DH150/blob/master/Picture17.png)
 
 ### 5 - Error prevention -- prevent an error before it occurs, and a provide users with a confirmation option
 When creating an account, the system provides hints on what characters the new password should contain in order to complete the signup process. However, it would be safer if the system allows users to reenter the password to confirm the one they created. Additionally, in the checkout address section, it would be better if the City, Zip Code, and State sections are prepopulated in case users make any typos. 
