@@ -14,6 +14,7 @@ Philips ensures that users receive feedback on their actions. When users add a p
 Severity Rating: 1/3
 
 ![Feedback 1](https://github.com/xenia1270/DH150/blob/master/Picture1.png)
+
 ![Feedback 2](https://github.com/xenia1270/DH150/blob/master/Picture3.png)
 ### 2 - Match between system and the real world -- the system should use words or icons that are familiar to users
 The products categories have recognizable icons, so users can quickly find the desired products. However, users may find the Accessories section confusing as the icon shows three products requires some inferences. Moreover, the online experience does not replicate the familiarity of offline actions. When customers shop in a store, they would pick up a product and look at it from a different angle. However, most of the product photos on Philips website only display one angle, which lacks proximities to enhance users online shopping experience. 
@@ -33,21 +34,31 @@ Severity Rating: 3/3
 
 ![Consistency 1](https://github.com/xenia1270/DH150/blob/master/Picture9.png)
 ![Consistency 2](https://github.com/xenia1270/DH150/blob/master/Picture17.png)
+
 ![Consistency 3](https://github.com/xenia1270/DH150/blob/master/Picture5.png)
+
 ![Consistency 4](https://github.com/xenia1270/DH150/blob/master/Picture6.png)
+
 ![Consistency 5](https://github.com/xenia1270/DH150/blob/master/Picture7.png)
+
 ![Consistency 6](https://github.com/xenia1270/DH150/blob/master/Picture8.png)
 ### 5 - Error prevention -- prevent an error before it occurs, and a provide users with a confirmation option
 When creating an account, the system provides hints on what characters the new password should contain in order to complete the signup process. However, it would be safer if the system allows users to reenter the password to confirm the one they created. Additionally, in the checkout address section, it would be better if the City, Zip Code, and State sections are prepopulated in case users make any typos. 
 Severity Rating: 1/3
 
+![Password 1](https://github.com/xenia1270/DH150/blob/master/Picture10.png)
+
 ### 6 - Recognition rather than recall -- minimize users memory by giving more hints
 Shopping cart shows product names, thumbnail images, prices, and quantities, and availability, which is sufficient if users don’t need further detailed information about each product. It would be nice if the shopping cart page contains an option to move items to wishlist, provide a gift option, and allows quick look at the product for more details without leaving the page.
 Severity Rating: 1/3
 
+![Cart 1](https://github.com/xenia1270/DH150/blob/master/Picture18.png)
+
 ### 7 - Flexibility and efficiency of use -- offer shortcuts or advanced options to improve efficiency
 The seventh heuristics guideline of Nielsen’s Heuristics suggests a system to offer shortcuts for quick action. Though there is no shortcut presented for users, the site does a good job presenting a Recently viewed products section so users can easily get back to the products  they were looking at 
 Severity Rating: 1/3
+
+![Products 1](https://github.com/xenia1270/DH150/blob/master/Picture11.png)
 
 ### 8 - Aesthetic and minimalist design -- only present useful and relevant information
 It is understandable Philips wants to provide information on product design and professional advice on product usage. However, this may lead to information overload. There is too much information on one page with both static and dynamic pictures, which lacks white space to allow content to be more digestible.
@@ -57,7 +68,11 @@ Severity Rating: 2/3
 When users enter invalid information, the system shows suggestions on how to rectify the problem. To offer users with more concise instructions, the system could offer images showing users where to find the product number/name. It could also take a step further by listing out possible product information.
 Severity Rating: 1/3
 
+![Errors 1](https://github.com/xenia1270/DH150/blob/master/Picture15.png)
+
 ### 10 - Help and documentation -- allow users to search for help easily
 It is easy to search for help by using the Contact us shortcut on the bottom right corner, or click on the Support button on the top left of each page. The users can either browse topics by category or enter model number for FAQs and user manuals. Though the system provides a chat box, the chat is offline and not not responsive.  
 Severity Rating: 1/3
 
+![Helps 1](https://github.com/xenia1270/DH150/blob/master/Picture13.png)
+![Helps 2](https://github.com/xenia1270/DH150/blob/master/Picture14.png)
