@@ -64,7 +64,7 @@ Severity Rating: 1/3
 It is understandable Philips wants to provide information on product design and professional advice on product usage. However, this may lead to information overload. There is too much information on one page with both static and dynamic pictures, which lacks white space to allow content to be more digestible.
 Severity Rating: 2/3
 
-
+![Design 1](https://github.com/xenia1270/DH150/blob/master/Picture19.png)
 
 ### 9 - Help users recognize, diagnose, and recover from errors -- when error occurs, the system should provide suggestions on how to fix it
 When users enter invalid information, the system shows suggestions on how to rectify the problem. To offer users with more concise instructions, the system could offer images showing users where to find the product number/name. It could also take a step further by listing out possible product information.
