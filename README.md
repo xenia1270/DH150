@@ -12,6 +12,7 @@ The website lists out all the products and services provided by Philips. It enab
 ### 1 - Visibility of system status -- the system should provide feedbacks of users’ action and show progress status
 Philips ensures that users receive feedback on their actions. When users add a product to cart, the button color and text will change. There will be a pop-up window informing the current status of the shopping cart whenever users add a product to cart. However, the pop-up window only sticks around for less than 5 seconds before users finish reviewing. 
 Severity Rating: 1/3
+![Screenshot of feedback 1](/Users/xenia/Downloads/ASSIGNMENT 1 PIC)
 
 ### 2 - Match between system and the real world -- the system should use words or icons that are familiar to users
 The products categories have recognizable icons, so users can quickly find the desired products. However, users may find the accessories section confusing as the icon shows three products requires some inferences. Moreover, the online experience does not replicate the familiarity of offline actions. When customers shop in a store, they would pick up a product and look at it from a different angle. However, most of the product photos on Philips website only display one angle, which lacks proximities to enhance users online shopping experience. 
