@@ -23,7 +23,7 @@ Severity Rating: 3/3
 ![Icon 1](https://github.com/xenia1270/DH150/blob/master/Picture4.png)
 
 ### 3 - User control and freedom -- the system should provide redo and undo functions if users choose system functions by mistake
-If users find that they are viewing a wrong product, they can switch the pages from one product to another by simply clicking the “Products” button and choosing from the categories. However, if users are accidently in the “Men's Grooming Tools” page, the “Products” button is not working and users cannot go back to the categories section, unless they go back to the homepage and start from the beginning. Additionally, even though there are some products displayed on the homepage, the icon of  the shopping cart is not shown, which creates disadvantages for users who want to review their shopping cart when they are on the homepage. Another problem is that if users don’t subscribe to their newsletter, the notification will be shown on every page and cannot be turned off.
+If users find that they are viewing a wrong product, they can switch the pages from one product to another by simply clicking the “Products” button and choosing from the categories. However, if users are accidently in the “Men's Grooming Tools” page, the “Products” button is not working and users cannot go back to the categories section, unless they go back to the homepage and start from the beginning. Additionally, the header and the icon of  the shopping cart are not scroll fixed, which creates inconvenience for users to review their shopping cart. Another problem is that if users don’t subscribe to their newsletter, the notification will be shown on every page and cannot be turned off.
 Severity Rating: 3/3
 
 ![Freedom 1](https://github.com/xenia1270/DH150/blob/master/Picture16.png)
@@ -63,6 +63,8 @@ Severity Rating: 1/3
 ### 8 - Aesthetic and minimalist design -- only present useful and relevant information
 It is understandable Philips wants to provide information on product design and professional advice on product usage. However, this may lead to information overload. There is too much information on one page with both static and dynamic pictures, which lacks white space to allow content to be more digestible.
 Severity Rating: 2/3
+
+
 
 ### 9 - Help users recognize, diagnose, and recover from errors -- when error occurs, the system should provide suggestions on how to fix it
 When users enter invalid information, the system shows suggestions on how to rectify the problem. To offer users with more concise instructions, the system could offer images showing users where to find the product number/name. It could also take a step further by listing out possible product information.
