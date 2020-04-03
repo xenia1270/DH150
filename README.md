@@ -13,9 +13,18 @@ The website lists out all the products and services provided by Philips. It enab
 Philips ensures that users receive feedback on their actions. When users add a product to cart, the button color and text will change. There will be a pop-up window informing the current status of the shopping cart whenever users add a product to cart. However, the pop-up window only sticks around for less than 5 seconds before users finish reviewing. 
 Severity Rating: 1/3
 
+![Feedback 1](https://github.com/xenia1270/DH150/blob/master/Picture1.png)
+![Feedback 2](https://github.com/xenia1270/DH150/blob/master/Picture2.png)
+![Feedback 3](https://github.com/xenia1270/DH150/blob/master/Picture3.png)
 ### 2 - Match between system and the real world -- the system should use words or icons that are familiar to users
-The products categories have recognizable icons, so users can quickly find the desired products. However, users may find the accessories section confusing as the icon shows three products requires some inferences. Moreover, the online experience does not replicate the familiarity of offline actions. When customers shop in a store, they would pick up a product and look at it from a different angle. However, most of the product photos on Philips website only display one angle, which lacks proximities to enhance users online shopping experience. 
+The products categories have recognizable icons, so users can quickly find the desired products. However, users may find the Accessories section confusing as the icon shows three products requires some inferences. The Household products and Personal care sections also confuse users as they use different icons acorss the page. Moreover, the online experience does not replicate the familiarity of offline actions. When customers shop in a store, they would pick up a product and look at it from a different angle. However, most of the product photos on Philips website only display one angle, which lacks proximities to enhance users online shopping experience. 
 Severity Rating: 3/3
+
+![Icon 1](https://github.com/xenia1270/DH150/blob/master/Picture4.png)
+![Icon 2](https://github.com/xenia1270/DH150/blob/master/Picture5.png)
+![Icon 3](https://github.com/xenia1270/DH150/blob/master/Picture6.png)
+![Icon 4](https://github.com/xenia1270/DH150/blob/master/Picture7.png)
+![Icon 5](https://github.com/xenia1270/DH150/blob/master/Picture8.png)
 
 ### 3 - User control and freedom -- the system should provide redo and undo functions if users choose system functions by mistake
 If users find that they are viewing a wrong product, they can switch the pages from one product to another by simply clicking the “Products” button and choosing from the categories. However, if users are accidently in the “Men's Grooming Tools” page, the “Products” button is not working and users cannot go back to the categories section, unless they go back to the homepage and start from the beginning. Additionally, even though there are some products displayed on the homepage, the icon of  the shopping cart is not shown, which creates disadvantages for users who want to review their shopping cart when they are on the homepage. Another problem is that if users don’t subscribe to their newsletter, the notification will be shown on every page and cannot be turned off.
