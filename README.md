@@ -17,14 +17,10 @@ Severity Rating: 1/3
 ![Feedback 2](https://github.com/xenia1270/DH150/blob/master/Picture2.png)
 ![Feedback 3](https://github.com/xenia1270/DH150/blob/master/Picture3.png)
 ### 2 - Match between system and the real world -- the system should use words or icons that are familiar to users
-The products categories have recognizable icons, so users can quickly find the desired products. However, users may find the Accessories section confusing as the icon shows three products requires some inferences. The Household products and Personal care sections also confuse users as they use different icons acorss the page. Moreover, the online experience does not replicate the familiarity of offline actions. When customers shop in a store, they would pick up a product and look at it from a different angle. However, most of the product photos on Philips website only display one angle, which lacks proximities to enhance users online shopping experience. 
+The products categories have recognizable icons, so users can quickly find the desired products. However, users may find the Accessories section confusing as the icon shows three products requires some inferences. Moreover, the online experience does not replicate the familiarity of offline actions. When customers shop in a store, they would pick up a product and look at it from a different angle. However, most of the product photos on Philips website only display one angle, which lacks proximities to enhance users online shopping experience. 
 Severity Rating: 3/3
 
 ![Icon 1](https://github.com/xenia1270/DH150/blob/master/Picture4.png)
-![Icon 2](https://github.com/xenia1270/DH150/blob/master/Picture5.png)
-![Icon 3](https://github.com/xenia1270/DH150/blob/master/Picture6.png)
-![Icon 4](https://github.com/xenia1270/DH150/blob/master/Picture7.png)
-![Icon 5](https://github.com/xenia1270/DH150/blob/master/Picture8.png)
 
 ### 3 - User control and freedom -- the system should provide redo and undo functions if users choose system functions by mistake
 If users find that they are viewing a wrong product, they can switch the pages from one product to another by simply clicking the “Products” button and choosing from the categories. However, if users are accidently in the “Men's Grooming Tools” page, the “Products” button is not working and users cannot go back to the categories section, unless they go back to the homepage and start from the beginning. Additionally, even though there are some products displayed on the homepage, the icon of  the shopping cart is not shown, which creates disadvantages for users who want to review their shopping cart when they are on the homepage. Another problem is that if users don’t subscribe to their newsletter, the notification will be shown on every page and cannot be turned off.
@@ -33,12 +29,15 @@ Severity Rating: 3/3
 ![Freedom 1](https://github.com/xenia1270/DH150/blob/master/Picture16.png)
 
 ### 4 - Consistency and standards -- the system should follow consistent conventions, so users would get the results they expect under the same operation across sites
-Different product pages have different layout design and colors, which makes users overwhelmed, and users need time to adapt to the change. Also, some icons are not consistent when referring to the same products/services.
+Different product pages have different layout design and colors, which makes users overwhelmed, and users need time to adapt to the change. Also, some icons are not consistent when referring to the same products/services. The Household products and Personal care sections also confuse users as they use different icons acorss the page.
 Severity Rating: 3/3
 
 ![Consistency 1](https://github.com/xenia1270/DH150/blob/master/Picture9.png)
 ![Consistency 2](https://github.com/xenia1270/DH150/blob/master/Picture17.png)
-
+![Consistency 3](https://github.com/xenia1270/DH150/blob/master/Picture5.png)
+![Consistency 4](https://github.com/xenia1270/DH150/blob/master/Picture6.png)
+![Consistency 5](https://github.com/xenia1270/DH150/blob/master/Picture7.png)
+![Consistency 6](https://github.com/xenia1270/DH150/blob/master/Picture8.png)
 ### 5 - Error prevention -- prevent an error before it occurs, and a provide users with a confirmation option
 When creating an account, the system provides hints on what characters the new password should contain in order to complete the signup process. However, it would be safer if the system allows users to reenter the password to confirm the one they created. Additionally, in the checkout address section, it would be better if the City, Zip Code, and State sections are prepopulated in case users make any typos. 
 Severity Rating: 1/3
