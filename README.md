@@ -1,4 +1,4 @@
-# DH150 -- Asssignment 1: Heuristic Evaluation of Two Websites
+# DH150 -- Asssignment 1: Heuristic Evaluation of Two Websites -- by Jiaqi Zhou (Xenia)
 
 ## Website 1: Philips - https://www.usa.philips.com/
 
