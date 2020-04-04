@@ -99,9 +99,11 @@ Severity Rating: 1/3
 
 ![Kitchen](https://github.com/xenia1270/DH150/blob/master/Kitchen%20Store%20Homepage.png)
 
-## Description about your motivation/relevance + initial overall evaluation about web/app before heuristic evaluation: I am interested in cooking and would like to know whether local kitchenware stores like Home & Farm Kitchen Supply would have a user friendly website especially during COVID-19 when people are staying and cooking at home. The website does not look professional at first glance because it violates some web design conventions, such as the inconsistent font, position of main navigation, and shopping cart icon, etc. However, the site leaves a lot of white space that gives more attention to call-to-actions and helps users read information without distractions.
+## Description about your motivation/relevance + initial overall evaluation about web/app before heuristic evaluation: 
+I am interested in cooking and would like to know whether local kitchenware stores like Home & Farm Kitchen Supply would have a user friendly website especially during COVID-19 when people are staying and cooking at home. The website does not look professional at first glance because it violates some web design conventions, such as the inconsistent font, position of main navigation, and shopping cart icon, etc. However, the site leaves a lot of white space that gives more attention to call-to-actions and helps users read information without distractions.
 
-## Brief information about the website: Home & Farm Kitchen Supply is a local kitchenware store that sells culinary supplies in Northern California, and they have gadgets that people won’t find anywhere else. The site lists the catalog alphabetically, so users can find items quickly if they know the name of the thing they want. 
+## Brief information about the website: 
+Home & Farm Kitchen Supply is a local kitchenware store that sells culinary supplies in Northern California, and they have gadgets that people won’t find anywhere else. The site lists the catalog alphabetically, so users can find items quickly if they know the name of the thing they want. 
 
 
 ## Heuristic Evaluation:
