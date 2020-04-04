@@ -2,6 +2,9 @@
 
 ## Website 1: Philips - https://www.usa.philips.com/
 
+![Philips 1](https://github.com/xenia1270/DH150/blob/master/Philips%20Homepage.png)
+![Philips 2](https://github.com/xenia1270/DH150/blob/master/Philips%20Homepage%202.png)
+
 ## Description about your motivation/relevance + initial overall evaluation about web/app before heuristic evaluation: 
 I choose to evaluate Philips company website because I recently started using its Sonicare electric toothbrush. I am interested in learning more about Philips products and how its product design became so successful. I know that Philips is one of the largest electronics companies in the world, and it has received awards for its industrial design. However, Philips' focus on product design does not mean they also have good website design. Before I started the heuristic evaluation, my overall feeling is that Philips has its products well listed under corresponding categories. However, different product pages have different background colors, which may make users feel overwhelmed and need to adapt to the change. Additionally, there is a problem about information overload, which may result in high consumers turnover rate.
 
@@ -94,6 +97,8 @@ Severity Rating: 1/3
 
 ## Website 2:Home & Farm Kitchen Supply -- https://www.biggestlittlekitchenstore.com/
 
+![Kitchen](https://github.com/xenia1270/DH150/blob/master/Kitchen%20Store%20Homepage.png)
+
 ## Description about your motivation/relevance + initial overall evaluation about web/app before heuristic evaluation: I am interested in cooking and would like to know whether local kitchenware stores like Home & Farm Kitchen Supply would have a user friendly website especially during COVID-19 when people are staying and cooking at home. The website does not look professional at first glance because it violates some web design conventions, such as the inconsistent font, position of main navigation, and shopping cart icon, etc. However, the site leaves a lot of white space that gives more attention to call-to-actions and helps users read information without distractions.
 
 ## Brief information about the website: Home & Farm Kitchen Supply is a local kitchenware store that sells culinary supplies in Northern California, and they have gadgets that people won’t find anywhere else. The site lists the catalog alphabetically, so users can find items quickly if they know the name of the thing they want. 
@@ -105,13 +110,17 @@ Severity Rating: 1/3
 As users add a product to cart, the system will direct users to the full cart overview page instead of showing a flexible pop-up window, even though there is a Continue Shopping button that takes users back to the previous page. Conventionally, the Cart/ Checkout button is usually displayed on the upper right of the webpage, but this site breaks the rule by putting the button on the left side along with the catalog, which may frustrate users. Even worse, the cart icon does not indicate the number of the number of items in the cart, nor does it display any information when hovering over it.
 Severity Rating:3/3
 
+![Visibility 1](https://github.com/xenia1270/DH150/blob/master/Picture20.png)
+![Visibility 2](https://github.com/xenia1270/DH150/blob/master/Picture23.png)
+![Visibility 3](https://github.com/xenia1270/DH150/blob/master/Picture24.png)
+
 ### 2 - Match between system and the real world -- the system should use words or icons that are familiar to users
 Regardless of the header placement, the site uses recognizable icons along with simple content  across all sections. It is also nice to offer free gift wrapping to make the experience more enjoyable. However, there is only one product image on each product page, which fails to provide multiple angles of the product to replicate the real-world behavior. 
 
 Severity Rating:2/3
 
 ### 3 - User control and freedom -- the system should provide redo and undo functions if users choose system functions by mistake
-The site does not have a sign in section, which may attract some people who don’t want to create another account and are still able to browse all available items. But, it also means people don’t have an option to keep track of their order history or add the items to their wishlist to purchase later.
+The site does not have a sign in section, which may attract some people who don’t want to create another account and are still able to browse all available items. But, this also means that people don’t have an option to keep track of their order history or add the items to their wishlist to purchase later.
 
 Severity Rating:2/3
 
@@ -120,10 +129,16 @@ The font types and sizes are different across pages, especially the business nam
 
 Severity Rating:3/3
 
+![Consistency 1](https://github.com/xenia1270/DH150/blob/master/Picture21.png)
+![Consistency 2](https://github.com/xenia1270/DH150/blob/master/Picture22.png)
+
 ### 5 - Error prevention -- prevent an error before it occurs, and a provide users with a confirmation option
 Though the site does not indicate which field is required to fill out, it guides users with suggestions to prevent incorrect actions before moving onto the review section. 
 
 Severity Rating:1/3
+
+![Error 1](https://github.com/xenia1270/DH150/blob/master/Picture27.png)
+![Error 2](https://github.com/xenia1270/DH150/blob/master/Picture28.png)
 
 ### 6 - Recognition rather than recall -- minimize users memory by giving more hints
 The checkout page shows item names and prices without providing item images, which increases cognitive load and reduces user satisfaction. Additionally, the site fails to provide a list of recently viewed products to increase user engagement. But, it is good to see a product page displaying related items for user convenience. 
@@ -135,15 +150,21 @@ The site displays three today’s popular items on the homepage to accelerate th
 
 Severity Rating:2/3
 
+![Flexibility 1](https://github.com/xenia1270/DH150/blob/master/Picture30.png)
+
 ### 8 - Aesthetic and minimalist design -- only present useful and relevant information
 The site works well with white space, so users would feel comfortable reading the information. The site is simple, and only relevant information is shown on each product page. 
 
 Severity Rating:1/3
 
+![Aesthetic 1](https://github.com/xenia1270/DH150/blob/master/Picture26.png)
+
 ### 9 - Help users recognize, diagnose, and recover from errors -- when error occurs, the system should provide suggestions on how to fix it
 There are no precise instructions on how to fix an incorrect search result. Error messages are not expressed in human-readable error messages.
 
 Severity Rating:3/3
+
+![Help 1](https://github.com/xenia1270/DH150/blob/master/Picture25.png)
 
 ### 10 - Help and documentation -- allow users to search for help easily
 It is simple to shop on Home & Farm Kitchen Supply and information is easy to search if customers enter valid keywords. Though the site provides contact information including store address, phone number, and email address if customers need further information, it is not convenient without FAQs and help sections. 
