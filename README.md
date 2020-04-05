@@ -17,7 +17,7 @@ The website lists out all kinds of products and services provided by Philips. Th
 
 ### Heuristic Evaluation:
 #### 1 - Visibility of system status -- the system should provide feedbacks of users’ action and show progress status
-Philips ensures that users receive feedback on their actions. When users add a product to the cart, the button color and text will change. There will be a pop-up window informing the current status of the shopping cart whenever users add a product to the cart. However, the pop-up window only sticks around for less than 5 seconds before users finish reviewing.  
+Philips ensures that users receive feedback on their actions. When users add a product to the cart, the button color and text will change. There will be a pop-up window informing the current status of the shopping cart whenever users add a product to the cart. However, the pop-up window only sticks around for less than 5 seconds before users finish reviewing. It would be better if the pop-up window can last longer for customers to review the items in the cart.  
 
 Severity Rating: 1/3
 
@@ -26,9 +26,8 @@ Severity Rating: 1/3
 ![Feedback 2](https://github.com/xenia1270/DH150/blob/master/Picture3.png)
 
 #### 2 - Match between system and the real world -- the system should use words or icons that are familiar to users
-The product categories have recognizable icons, so users can quickly find the desired products. However, users may find the accessories section confusing as the icon shows three products that require some inferences. 
-
-Some popular items replicate the familiarity of offline actions by providing pictures with different angles. However, some less popular items only have pictures displaying one angle, which lacks proximities to enhance users’ online shopping experience.   
+The product categories have recognizable icons, so users can quickly find the desired products. However, users may find the accessories section confusing as the icon shows three different products that require some inferences. For example, users may think the comb icon refers to personal care for women, and the two icons on the left look blurry. Therefore, the icon should be consistent and concise.
+Some popular items replicate the familiarity of offline actions by providing pictures with different angles. However, some less popular items only have pictures displaying one angle, which lacks proximities to enhance users’ online shopping experience.    
 
 Severity Rating: 2/3
 
