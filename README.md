@@ -19,7 +19,7 @@ The website lists out all kinds of products and services provided by Philips. Th
 #### 1 - Visibility of system status -- the system should provide feedbacks of users’ action and show progress status
 Philips ensures that users receive feedback on their actions. When users add a product to the cart, the button color and text will change. There will be a pop-up window informing the current status of the shopping cart whenever users add a product to the cart. However, the pop-up window only sticks around for less than 5 seconds before users finish reviewing. 
 
-Possible solution(s): It would be better if the pop-up window can last longer for customers to review the items in the cart.  
+Possible solution(s): it would be better if the pop-up window can last longer for customers to review the items in the cart.  
 Severity Rating: 1/3
 
 ![Feedback 1](https://github.com/xenia1270/DH150/blob/master/Picture1.png)
@@ -30,7 +30,7 @@ Severity Rating: 1/3
 The product categories have recognizable icons, so users can quickly find the desired products. However, users may find the accessories section confusing as the icon shows three different products that require some inferences. For example, users may think the comb icon refers to personal care for women, and the two icons on the left look blurry. 
 Some popular items replicate the familiarity of offline actions by providing pictures with different angles. However, some less popular items only have pictures displaying one angle, which lacks proximities to enhance users’ online shopping experience.    
 
-Possible solution(s):The icons should be consistent and concise to avoid confusion; adds more pictures to the pages of the less popular items
+Possible solution(s): the icons should be consistent and concise to avoid confusion; adds more pictures to the pages of the less popular items
 
 Severity Rating: 2/3
 
@@ -41,7 +41,7 @@ If users find that they are viewing the wrong product, they can switch the pages
 Additionally, the header changes when users are in the Support - Part & Accessories - Philips Oral Healthcare page, and there is no button directing users to go back to the previous page. 
 The header and the icon of the shopping cart are also not scroll fixed, which creates inconvenience for users to review their shopping cart at any point in time. Another problem is that if users don’t subscribe to their newsletter, the notification will be shown on every page and cannot be turned off.
 
-Possible solution(s):make sure every button works and ensure usability; provide undo functions; fix the header for the convenience of the user 
+Possible solution(s): make sure every button works and ensure usability; provide undo functions; fix the header for the convenience of the user 
 
 Severity Rating: 3/3
 
@@ -203,7 +203,7 @@ Severity Rating:2/3
 #### 8 - Aesthetic and minimalist design -- only present useful and relevant information
 The site works well with white space, so users would feel comfortable reading the information. The site is simple, and only relevant information is shown on each product page. 
 
-Possible solution(s): It would be helpful to add a customer reviews section 
+Possible solution(s): it would be helpful to add a customer reviews section 
 
 Severity Rating:1/3
 
