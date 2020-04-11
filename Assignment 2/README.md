@@ -2,7 +2,7 @@
 
 ## Introduction
 
-usa.philips.com is Philips’s website that offers innovative health technology products and services to customers in the U.S.A. The website intends to provide users with a highly immersive shopping experience by providing various pictures and videos along with the products. The website categorizes the products into nine sections based on their features and noticeable icons, so users can easily find the desired products. 
+<a href="usa.philips.com"> is Philips’s website that offers innovative health technology products and services to customers in the U.S.A. The website intends to provide users with a highly immersive shopping experience by providing various pictures and videos along with the products. The website categorizes the products into nine sections based on their features and noticeable icons, so users can easily find the desired products. 
 
 After conducting a heuristic evaluation on usa.philips.com, several usability concerns needed to be addressed. First, some product icons are not consistent and would create confusion as users browsing the website. Second, the search field does a poor job outputting the results. For example, when a user types in the keyword in the search box, the results are a list of articles instead of the product itself. Third, the website lacks user control and freedom as it does not provide the undo and redo functions. Fourth, some product pages contain irrelevant information that conflicts with the aesthetic and minimalist design principle. Finally, the layout designs and colors are not consistent in each product page, which causes distraction when the user is browsing through different products. 
 
