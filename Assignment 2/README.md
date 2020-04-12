@@ -31,8 +31,7 @@ The pilot test was conducted on April 11, 2020, at 606 Levering Ave, Los Angeles
 https://forms.gle/rneEbZAHRpDWSK9y6
 
 ## Video Link
-
-
+<a href="https://https://www.youtube.com/watch?v=GLmkHOfxhLs&list=PLGUs7VdMmmzO6TH83sgX29YK8YhZEHQMX&index=2&t=1504s/">Click here</a>
 
 
 ## Reflection
