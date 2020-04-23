@@ -35,7 +35,7 @@
 - Decide how to interact with the users 
 - Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
 - Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
-https://docs.google.com/document/d/1p20hTM45mRYqq4EtCYcQUUOlc9J3nF6b4nxR2xI4s9k/edit#
+<a href="https://docs.google.com/document/d/1p20hTM45mRYqq4EtCYcQUUOlc9J3nF6b4nxR2xI4s9k/edit#">Field Research Script</a>
 
 ## User Data 
 ### Step05: Conduct the research
