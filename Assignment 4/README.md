@@ -17,14 +17,16 @@
 ### Step02: Target users 
 
 - What are the characteristics of users? (ex. demographics, preference, expertise) 
+  - I sought users ages 18 to 40, who work or study at a computer all day. Because these people more or less have some common health issues such as computer vision syndrome, overweight and obesity, and even mental health. These group of people can access the internet easily, and they would be more likely to turn to the internet for solution. 
 - Where would the users do that activity? (i.e., context of use)
+  - The users can do the activity anywhere as long as they have a computer, an iPad, or just a mobile phone. It is handy for them to search for health-related subjects.
 - What would the users do to complete that activity? (e.g., goal, operation, method, action)
+  - When the users go online to look up health-related information, some would expect to find advices on medical problems, some are interested in fitness or diet information, and some need more information about OTC drugs or supplements before they buy them.    
 
 
 ### Step03: Pick research methods (or a combination of methods) 
 
-- Interview with direct / passive / participatory observation.
-- Or something you learned on your own (refer to the field guideline by IDEO)
+The interview was done through passive observation. The interview was held via Zoom, while the user was at his home and used both online or offline tools to complete the tasks. 
 
 
 ## Contextual inquiry guide (script)
