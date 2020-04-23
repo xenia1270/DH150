@@ -37,27 +37,21 @@ The interview was done through passive observation. The interview was held via Z
 - Decide how to interact with the users 
 - Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
 - Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
+
 <a href="https://docs.google.com/document/d/1p20hTM45mRYqq4EtCYcQUUOlc9J3nF6b4nxR2xI4s9k/edit#">Field Research Script</a>
 
 ## User Data 
 ### Step05: Conduct the research
 
 - Visit the place
-- Meet/Observe the user(s)- Collect the data (record, pictures, answered_survey)
+- Meet/Observe the user(s)
+- Collect the data (record, pictures, answered_survey)
+<<Zoom video>>
 
 
 ## Transcript
 
 
 ## Reflection
-## Step06: Organize/Documentation
 
-- In github (sub)repository assignment5, create one document (either README.md or .html)
-- Describe your project design challenge + target user (step1+2)
-- Describe your research methods and plan (step3)
-- Provide a link to your interview/observation guide (step4) 
-- Digitize your notes (scan/photo) and upload your data to github
-- Provide a link to your representative data file(s) (step5)
-- Provide a link to the transcript of your interview (or meaningful dialogues/ talk-alouds during observation, useful transcript tool here) 
-- Write a reflection
 
