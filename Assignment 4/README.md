@@ -4,7 +4,8 @@
 ## Step01: Specify the main design challenge 
 
 - What is the main activity your project would support the users?
-  - 
+  - xx
+  - xx
 - What is the basic need involved for that activity? (reference)
 - What is(are) the traditional/current solution(s) to satisfy the needs?
 - What is(are) the limitation(s) that possibly would be improved with (digital) technology?
