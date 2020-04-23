@@ -1,5 +1,5 @@
 # DH150 -- Assignment 04: Contextual Inquiry -- by Jiaqi Zhou (Xenia)
-# Theme: Health
+## Theme: Health
 
 ## Description of project
 ### Step01: Specify the main design challenge 
