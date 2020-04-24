@@ -46,10 +46,11 @@ The interview was done through passive observation. The interview was held via Z
 - Visit the place
 - Meet/Observe the user(s)
 - Collect the data (record, pictures, answered_survey)
-<<Zoom video>>
+<a href="https://www.youtube.com/watch?v=tmaTAq9p1xI">Zoom Interview Video</a>
 
 
 ## Transcript
+<a href="https://docs.google.com/document/d/1I2QrXy4C2nNdfPwLsCvZH7pk2KgOVTGkDfwUrYWUeqU/edit">Interview Transcript</a>
 
 
 ## Reflection
