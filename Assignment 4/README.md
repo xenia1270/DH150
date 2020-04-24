@@ -4,13 +4,7 @@
 ## Description of project
 ### Step01: Specify the main design challenge 
 
-- What is the main activity your project would support the users?
-  - xx
-  - xx
-- What is the basic need involved for that activity? (reference)
-- What is(are) the traditional/current solution(s) to satisfy the needs?
-- What is(are) the limitation(s) that possibly would be improved with (digital) technology?
-
+The health issues are always been significant topics around the world. Even though the health care system has been improved, so as people's living quality, there are more and more people worried about thier health condition. Our product is designed to provide users with more professional health-related information. It is conveninent for people to search for health topics online, but some people would judge the credibility of information on the internet. The major chanllenge for a health site is to provide both professional feedbacks and easy-to-conduct solution to users, so that they would trust the site and rely on it every time they need help or advice. Information on the webiste should also contain names that are familiar to the users to avoid any confusion. In this activity, the user will be asked to find any solutions that help relieve computer vision syndrome, and the user can use any methods that are comfortable to him. The current solutions will be online suggestion such as looking at a far away distance, doing some exercises, or staying away from computers for a while, etc.  However, information online will only provide general causes and possible silutions, which may not satisfy the user's needs. If the user cannot determine the real causes to his health issues, he would not know which option is more effective. With digital technology, it is possible to hire professionals to answer users' concerns remotely, either via Zoom or any communication devices. In this way, our product can build credibility and our users can get help easily.   
 
 
 
@@ -33,24 +27,22 @@ The interview was done through passive observation. The interview was held via Z
 ### Step04: Plan to get into the context & write down the observation/ interview guide 
 
 - Decide where to visit
+  - Via Zoom 
 - Decide what activities to observe/ what to ask to do
+  - To search for/find solution to health-related information
 - Decide how to interact with the users 
+  - Watch the interviewee conduct task, and ask questions if needed
 - Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-- Prepare the interview guide (examples + template here -- this guide is designed for search activity but you need to edit with your contextual questions according to the activity, not search activity, you want to learn from the users)
-
-<a href="https://docs.google.com/document/d/1p20hTM45mRYqq4EtCYcQUUOlc9J3nF6b4nxR2xI4s9k/edit#">Field Research Script</a>
+  - Recording video on Zoom, and using Otter for transcript
+  - <a href="https://docs.google.com/document/d/1p20hTM45mRYqq4EtCYcQUUOlc9J3nF6b4nxR2xI4s9k/edit#">Field Research Script</a>
 
 ## User Data 
 ### Step05: Conduct the research
-
-- Visit the place
-- Meet/Observe the user(s)
-- Collect the data (record, pictures, answered_survey)
-<a href="https://www.youtube.com/watch?v=tmaTAq9p1xI">Zoom Interview Video</a>
+- <a href="https://www.youtube.com/watch?v=tmaTAq9p1xI">Zoom Interview Video</a>
 
 
 ## Transcript
-<a href="https://docs.google.com/document/d/1I2QrXy4C2nNdfPwLsCvZH7pk2KgOVTGkDfwUrYWUeqU/edit">Interview Transcript</a>
+- <a href="https://docs.google.com/document/d/1I2QrXy4C2nNdfPwLsCvZH7pk2KgOVTGkDfwUrYWUeqU/edit">Interview Transcript</a>
 
 
 ## Reflection
