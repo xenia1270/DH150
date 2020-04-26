@@ -34,7 +34,9 @@ The interview was done through passive observation - the interviewee was being o
 ## User Data 
 ### Step05: Conduct the research
 - <a href="https://www.youtube.com/watch?v=tmaTAq9p1xI">Zoom Interview Video</a>
-- ![User Research Note](https://github.com/xenia1270/DH150/blob/master/Assignment%204/User%20Research%20Note.jpeg?raw=true)
+
+- User Research Note
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%204/User%20Research%20Note.jpeg?raw=true)
 
 
 ## Transcript
