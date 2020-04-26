@@ -24,7 +24,7 @@ Nowadays, people are connected to the internet, and they will rely on the intern
 
 
 ## Contextual inquiry guide (script)
-### Step04: Plan to get into the context & write down the observation/ interview guide 
+### Plan to get into the context & write down the observation/ interview guide 
 
 - Decide where to visit
   - Via Zoom 
@@ -37,7 +37,7 @@ Nowadays, people are connected to the internet, and they will rely on the intern
   - <a href="https://docs.google.com/document/d/1p20hTM45mRYqq4EtCYcQUUOlc9J3nF6b4nxR2xI4s9k/edit#">Field Research Script</a>
 
 ## User Data 
-### Step05: Conduct the research
+### Conduct the research
 - <a href="https://www.youtube.com/watch?v=tmaTAq9p1xI">Zoom Interview Video</a>
 
 - User Research Note:
