@@ -15,7 +15,12 @@ Nowadays, people are connected to the internet, and they will rely on the intern
 
 ### Step03: Pick research methods (or a combination of methods) 
 
-The interview was done through passive observation - the interviewee was being observed in the setting, but the interviewer did not participate in the activities except for asking questions. The interview was held via Zoom, while the user was at his home and used his preferred tools to complete the tasks. 
+- The interview was done through passive observation - the interviewee was being observed in the setting, but the interviewer did not participate in the activities except for asking questions. The interview was held via Zoom, while the user was at his home and used his preferred tools to complete the tasks.
+- Observations included:
+  - The interviewee's facial expression
+  - The search engine and keywords used to search for information
+  - How fast he can find what he wants
+  - What information is included in the webpage
 
 
 ## Contextual inquiry guide (script)
