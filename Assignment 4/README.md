@@ -1,7 +1,7 @@
 # DH150 -- Assignment 04: Contextual Inquiry -- by Jiaqi Zhou (Xenia)
 ## Theme: Health
 
-## :thumbsup: Description of project (design challenge, target users, research method(s))
+## :clipboard: Description of project (design challenge, target users, research method(s))
 ### Step01: Specify the main design challenge 
 
 Health issues are always important topics around the world. Even though the health care system has been improved, so as people's living quality, there are more and more people worried about their health condition. Our product is designed to provide users with more professional health-related information. It is convenient for people to search for health topics online, but some people would judge the credibility of information on the internet. The major challenge for a health site is to provide both professional feedbacks and easy-to-conduct solutions to users so that they would trust the website and rely on it every time they need help or advice. Information on the website should also contain names that are familiar to the users to avoid any confusion. In this activity, the user was asked to find any solutions that help relieve computer vision syndrome, and the user could use any methods that are comfortable to him. Since the interviewee was a Chinese, he preferred using a Chinese search engine called Baidu in his daily life to search for health topics. The current solutions are online suggestions such as looking at a far-away distance, doing some exercises, or staying away from computers for a while, etc. The user also showed another health issue that borders him a lot, hives. He was skeptical of the information if it was from commercial sites instead of from professional health sites. Most of the information online will only provide general causes and possible solutions, which may not satisfy the user's needs. If the user cannot determine the real causes of his health issues, he would not know which option is more effective. With digital technology, it is possible to hire professionals to answer users' concerns remotely, either via Zoom or any communication devices. In this way, our product can build credibility, and our users can get help easily.   
@@ -40,7 +40,7 @@ Nowadays, people are connected to the internet, and they will rely on the intern
 ### Conduct the research
 - <a href="https://www.youtube.com/watch?v=tmaTAq9p1xI">Zoom Interview Video</a>
 
-- :clipboard: User Research Note:
+- User Research Note:
 
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%204/User%20Research%20Note.jpeg?raw=true)
 
