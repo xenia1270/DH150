@@ -36,7 +36,7 @@ Nowadays, people are connected to the internet, and they will rely on the intern
   - Recording video on Zoom, and using Otter for transcript
   - <a href="https://docs.google.com/document/d/1p20hTM45mRYqq4EtCYcQUUOlc9J3nF6b4nxR2xI4s9k/edit#">Field Research Script</a>
 
-## :video_camera: User Data 
+## :clapper: User Data 
 ### Conduct the research
 - <a href="https://www.youtube.com/watch?v=tmaTAq9p1xI">Zoom Interview Video</a>
 
