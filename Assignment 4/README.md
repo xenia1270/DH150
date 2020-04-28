@@ -17,9 +17,9 @@ Nowadays, people are connected to the internet, and they will rely on the intern
 
 - The interview was done through passive observation - the interviewee was being observed in the setting, but the interviewer did not participate in the activities except for asking questions. The interview was held via Zoom, while the user was at his home and used his preferred tools to complete the tasks.
 - Observations included:
-  - The interviewee's facial expression
+  - The user's facial expression
   - The search engine and keywords used to search for information
-  - How fast he can find what he wants
+  - How fast the user can find what he wants
   - What information is included in the webpage
 
 
@@ -27,13 +27,13 @@ Nowadays, people are connected to the internet, and they will rely on the intern
 ### Plan to get into the context & write down the observation/ interview guide 
 
 - Decide where to visit
-  - Via Zoom 
+  - Due to COVID-19, we decided to meet via Zoom 
 - Decide what activities to observe/ what to ask to do
-  - To search for/find solution to health-related information
+  - To search for health-related information or to find solution to 
 - Decide how to interact with the users 
   - Watch the interviewee conduct task, and ask questions if needed
 - Decide how to collect user data 
-  - Recording video on Zoom, and using Otter for transcript
+  - User data was collected by recording video on Zoom, and using Otter for transcript
   - <a href="https://docs.google.com/document/d/1p20hTM45mRYqq4EtCYcQUUOlc9J3nF6b4nxR2xI4s9k/edit#">Field Research Script</a>
 
 ## :clapper: User Data 
@@ -51,6 +51,6 @@ Nowadays, people are connected to the internet, and they will rely on the intern
 
 ## :bulb: Reflection
 
-It is convenient for people to find health-related information online whenever and wherever they want, but those health sites should also be humanized and professional to make users feel easier to engage with. After the Contextual Inquiry, I've learned that the outcome of the interview can be unexpected. When preparing for the interview, I would come up with some possible scenarios and put down tentative questions. Even if I prepared for the script with all the questions, the user's behaviors would make me change the questions I wanted to ask. When I observed how the interviewee was completing the tasks, I appreciated that he was very talkative and would like to share with me what he found and how he found the information. However, as an interviewer, one challenge for me was to encourage the user to show me more about how he found satisfying solutions to the task. I understand that both of us were nervous during the interview, but the experience has helped me grow. In the future interview, I will try to ask some relaxing questions before we get into the contextual inquiry section. I will also give more time for the users to plan out what they want to do without interrupting. 
+It is convenient for people to find health-related information online whenever and wherever they want, but health sites should also be humanized and professional to make users feel easier to engage with. After the Contextual Inquiry, I've learned that the outcome of the interview can be unexpected. When preparing for the interview, I would come up with some possible scenarios and put down tentative questions. Even if I prepared for the script with all the questions, the user's behaviors would make me change the questions I wanted to ask. When I observed how the interviewee was completing the tasks, I appreciated that he was very talkative and would like to share with me what he found and how he found the information. However, as an interviewer, one challenge for me was to encourage the user to show me more about how he found satisfying solutions to the task. I understand that both of us were nervous during the interview, but the experience has helped me grow. In the future interview, I will try to ask some relaxing questions before we get into the contextual inquiry section. I will also give more time for the users to plan out what they want to do without interrupting. 
  
 
