@@ -4,11 +4,11 @@ The purpose of UX storytelling is to see things from the user's point of view an
 ## Three features you want to design
 Please find the ideation [here](https://docs.google.com/presentation/d/1EOHQ3fBzFPPhH533_Ot0eIJY061KLFpW8B2a_G2PqIg/edit#slide=id.g842e6a93d4_0_0:)
 
-Feature No.1: Professional guides
+- Feature No.1: Professional guides
 
-Feature No.2: Simplicity
+- Feature No.2: Simplicity
 
-Feature No.3: Accessibility
+- Feature No.3: Accessibility
 ## Persona + empathy map
 :one:
 
