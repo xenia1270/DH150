@@ -27,6 +27,7 @@ Please find the ideation [here](https://docs.google.com/presentation/d/1EOHQ3fBz
 
 ## Scenarios + Journey map per each feature
 ### :one: Cindy Scenarios
+My first Persona is Cindy, an accountant in San Francisco, whose goals are to keep her son healthy, and try to balance work and family. 
 
 
 
