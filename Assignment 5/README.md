@@ -26,15 +26,15 @@ Please find the ideation [here](https://docs.google.com/presentation/d/1EOHQ3fBz
 
 
 ## Scenarios + Journey map per each feature
-:one:
+### :one: Cindy Scenarios
 
 
 
 
-:two:
+### :two: Paul Scenarios
 
 
 
 
 
-:three:
+### :three: Doria Scenarios
