@@ -28,8 +28,7 @@ Please find the ideation [here](https://docs.google.com/presentation/d/1EOHQ3fBz
 ## Scenarios + Journey map per each feature
 ### :one: Cindy Scenarios
 My first Persona is Cindy, an accountant in San Francisco, whose goals are to keep her son healthy, and try to balance work and family. 
-https://github.com/xenia1270/DH150/blob/master/Assignment%205/Cindy%20JM.pdf
-<a href="/pdfs/Cindy JM.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>	
+[Check out Cindy Journey Map](https://github.com/xenia1270/DH150/blob/master/Assignment%205/Cindy%20JM.pdf)
 
 
 
