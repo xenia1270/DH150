@@ -14,12 +14,12 @@ Please find the ideation [here](https://docs.google.com/presentation/d/1EOHQ3fBz
 
 
 
-:two:
+:two: [Meet Paul](https://projects.invisionapp.com/freehand/document/GBpKXMNqY)
 
 
 
 
-:three:
+:three: [Meet Doria](https://projects.invisionapp.com/freehand/document/GBpKXMNqY)
 
 
 
