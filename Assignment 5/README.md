@@ -10,16 +10,16 @@ Please find the ideation [here](https://docs.google.com/presentation/d/1EOHQ3fBz
 
 - Feature No.3: Accessibility
 ## Persona + empathy map
-:one: [Meet Cindy](https://projects.invisionapp.com/freehand/document/fG6nXn7tt)
+:one: [Meet Cindy](https://projects.invisionapp.com/freehand/document/fG6nXn7tt) :woman_technologist:
 
 
 
-:two: [Meet Paul](https://projects.invisionapp.com/freehand/document/GBpKXMNqY)
+:two: [Meet Paul](https://projects.invisionapp.com/freehand/document/GBpKXMNqY) :man:
 
 
 
 
-:three: [Meet Doria](https://projects.invisionapp.com/freehand/document/GBpKXMNqY)
+:three: [Meet Doria](https://projects.invisionapp.com/freehand/document/GBpKXMNqY) :woman_student:
 
 
 
