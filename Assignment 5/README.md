@@ -36,7 +36,7 @@ During weekdays, Cindy has to go to work at 9:00 AM after she sends her son to h
 
 
 ### :two: Paul Scenarios
-My second persona is Paul, a Uber driver in Jackson, MS, whose goal is to lose weight and improve the health quality.
+My second persona is Paul, a Uber driver in Jackson, MS, whose goal is to maintain a healthy weight and improve the health quality.
 
 
 
