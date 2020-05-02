@@ -10,7 +10,7 @@ Please find the ideation [here](https://docs.google.com/presentation/d/1EOHQ3fBz
 
 - Feature No.3: Accessibility
 ## Persona + empathy map
-:one: [Meet Cindy](https://projects.invisionapp.com/freehand/document/fG6nXn7tt)
+:one: Meet Cindy
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%205/Cindy%20(1).png)
 
 
