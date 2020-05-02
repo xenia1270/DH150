@@ -13,6 +13,7 @@ Please find the ideation [here](https://docs.google.com/presentation/d/1EOHQ3fBz
 :one: Meet Cindy
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%205/Cindy%20(1).png)
 
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%205/Cindy%20Persona%20-%20InVision%20-%20projects.invisionapp.com.png)
 
 :two: [Meet Paul](https://projects.invisionapp.com/freehand/document/GBpKXMNqY)
 
