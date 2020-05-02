@@ -16,12 +16,12 @@ Please find the ideation [here](https://docs.google.com/presentation/d/1EOHQ3fBz
 
 :two: [Meet Paul](https://projects.invisionapp.com/freehand/document/GBpKXMNqY)
 
-
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%205/Paul%20Persona%20-%20InVision%20-%20projects.invisionapp.com.png)
 
 
 :three: [Meet Doria](https://projects.invisionapp.com/freehand/document/GBpKXMNqY)
 
-
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%205/Doria%20Persona%20-%20InVision%20-%20projects.invisionapp.com.png)
 
 
 
