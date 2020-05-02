@@ -31,7 +31,7 @@ My first Persona is Cindy, an accountant in San Francisco, whose goals are to ke
 
 During weekdays, Cindy has to go to work at 9:00 AM after she sends her son to her mother’s home. Cindy will pick up her son after work at around 6:00 PM. It’s 7:30 AM, Cindy wakes her son up peacefully as usual. She realizes that there are patches of red and itchy skin on her son’s cheeks and some on the neck. She thinks making an appointment may need to wait for several days, but the closest clinic for walk-in service is about an hour drive. She doesn’t have time to take her son to wait at the clinic for a walk-in. During her breakfast, she visits the healthline site and tries to use the Symptom Checker to find any solutions. The Symptom Checker also allows Cindy to filter keywords to get more accurate results. It’s possible that her son has normal eczema, and the site provides several options to help with symptoms. On the same page, Cindy is allowed to visit a physician online on the same day from 8AM to 8PM, and she can choose a preferred physician that speaks her language. Luckily, Cindy is able to choose the 8AM meeting with a Chinese-speaking physician; otherwise, she will need to wait until the next available appointment at 6:30PM. Cindy soon finishes breakfast and turns on Zoom meeting on her laptop. The consulting lasts 30 minutes, and the physician lists out foods to eat and avoid when having eczema. In minutes, the physician sends out the prescriptions to Cindy’s preferred pharmacy. Cindy can pick up the medication after she receives notification from the pharmacy through message. At about 9:00 PM, Cindy sends her son to her mother’s home, and she gives her mother the lists of food recommended by the physician (written in Chinese). She asks her mother to pick up the medication in the nearby Walgreens Pharmacy if she is available. Otherwise, she’ll need to pick up after work. With the help of virtual meeting with a physician, Cindy is able to keep her son healthy, and go to work without worrying too much about her family. 
 
-
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%205/Cindy%20JM.jpg)
 
 
 
@@ -43,3 +43,5 @@ Every morning at 6:30, Paul gets up to start his work day because early morning 
 ![Paul JM](https://github.com/xenia1270/DH150/blob/master/Assignment%205/Paul%20JM_page-0001.jpg)
 
 ### :woman_student: Doria Scenarios
+My third persona is Doria, a a third-year college student majoring in computer science, whose goal is to balance college, work, and personal life.
+
