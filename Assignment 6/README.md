@@ -12,11 +12,17 @@ The purpose of this low-fidelity prototyping is to use limited time and resource
 
 ## Wireframes
 ### Cindy's Wireframe
+Pencil Sketch:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Cindy-Handsketch.JPG)
+
+Balsamiq Wireframes:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Cindy%20Wireframe.png)
 
 ### Paul's Wireframe
+Pencil Sketch:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Paul-Handsketch.JPG)
+
+Balsamiq Wireframes:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Paul%20Wireframe.png)
 
 ### Doria's Wireframe
