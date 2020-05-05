@@ -14,6 +14,11 @@ The purpose of this low-fidelity prototyping is to use limited time and resource
 ### Cindy's Wireframe
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Cindy%20Wireframe.png)
 
+### Paul's Wireframe
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Paul%20Wireframe.png)
+
+### Doria's Wireframe
+
 
 ## Wireflow
 
