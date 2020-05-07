@@ -15,19 +15,22 @@ The purpose of this low-fidelity prototyping is to use limited time and resource
 Pencil Sketch:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Cindy-Handsketch.JPG)
 
-Balsamiq Wireframes:
+Balsamiq Mockups:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Cindy%20Wireframe.png)
 
 ### Paul's Case
 Pencil Sketch:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Paul-Handsketch.JPG)
 
-Balsamiq Wireframes:
+Balsamiq Mockups:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Paul%20Wireframe.png)
 
 ### Doria's Case
+Pencil Sketch:
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Doria-Handsketch.JPG)
 
-
+Balsamiq Mockups:
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Doria%20Wireframe.png)
 ## Wireflow
 
 
