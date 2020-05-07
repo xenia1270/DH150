@@ -31,10 +31,9 @@ Pencil Sketch:
 
 Balsamiq Mockups:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Doria%20Wireframe.png)
-## Wireflow
 
 
-## Testing the wireflow with other person
+## Testing the wireflow
 
 
 ## Reflection 
