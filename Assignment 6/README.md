@@ -4,10 +4,16 @@
 This user-research is to evaluate the design of a healthcare site -- Healthline. Healthline is a healthcare website that provide health and wellness information. By collecting qualitative and quantitative data, we are able to get insights into how well the website support users to accomplish their goals. The research will base on Jakob Nielsen's 10 Usability Heuristics to identify deisgn issues on the Healthline website.
 
 I use three personas, Cindy, Paul, and Doria, whose ages are in the range of 18 to 50 because this group of people are active internet users and they are more likely to use the Web for health information. They are designed as three different types of people with different family background, education, and occupations to examine how these people approach health information differently. The common feature is they care about their health and tend to use the Internet for health-related purposes. With three personas, I come up with three features to improve the website: Professional guides, Simplicity, and Accessibility. 
+  
 
 
 ### :white_check_mark: The purpose of this low-fidelity prototyping
 The purpose of this low-fidelity prototyping is to use limited time and resources to get insights into users' need and receive feedbacks to detect and fix major interface issues. By using Balsamiq tool to wireframe the interface, we can identify the pathways users take to complete the tasks and whether they understand the content. Since there are many medical terms on the healthcare website, it is important to accommodate people with different health literacy and different familiarity. With low-fidelity prototyping, we can invest more time and resources to optimize the user experience in the later stage.
+
+In this low-fidelity prototyping, I want to emphasize three features under three scenarios:
+- Feature 1: Symptoms Checker tool to help users identify any possible causes/conditions; same day appointment to meet with a doctor online
+- Feature 2: See an online doctor for professional advice; Goal Tracker tool for people to stick to the plan and track their personal health progress
+- Feature 3: Enable users to filter the topic of the news or articles, so they won't be distracted by news that is not in the area the users are interested in; 24/7 online chatbox for users who need psychological assistance 
 
 
 ## Wireframes + Wireflow
