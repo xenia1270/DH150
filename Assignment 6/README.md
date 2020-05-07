@@ -11,14 +11,17 @@ I use three personas, Cindy, Paul, and Doria, whose ages are in the range of 18 
 The purpose of this low-fidelity prototyping is to use limited time and resources to get insights into users' need and receive feedbacks to detect and fix major interface issues. By using Balsamiq tool to wireframe the interface, we can identify the pathways users take to complete the tasks and whether they understand the content. Since there are many medical terms on the healthcare website, it is important to accommodate people with different health literacy and different familiarity. With low-fidelity prototyping, we can invest more time and resources to optimize the user experience in the later stage.
 
 In this low-fidelity prototyping, I want to emphasize three features under three scenarios:
+
 :one: Professional guides
   - Online appointment with a doctor
   - 24/7 online chatbox for users who need psychological assistance
   - Goal Tracker tool with professional guidance
+  
 :two: Simplicity
   - Simplify the medical terms and each function on the website to users' needs
   - Include appropriate icons to increase fluency and improve task performance
   - Make the health articles or news more readable and understandable
+  
 :three: Accessibility
   - Easy to use keyboard navigation (may be improved in the later high fideleity prototype)
   - High font contrast and color contrast (may be improved in the later high fideleity prototype)
