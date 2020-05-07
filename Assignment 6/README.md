@@ -66,3 +66,4 @@ Balsamiq Mockups:
 
 
 ## Reflection 
+I really enjoyed the process of creating the low-fidelity prototype because it gave me a sense of achievement to improve the website. Before I started drawing, I reviewed each persona's need and guessed which tools on the website can better help them to achieve their goals. 
