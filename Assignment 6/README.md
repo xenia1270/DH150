@@ -29,7 +29,7 @@ In this low-fidelity prototyping, I want to emphasize three features under three
   - Language selection
 
 
-###  The low-fidelity prototype supports the following tasks:
+###  :white_check_mark: The low-fidelity prototype supports the following tasks:
 - Allow the users to check the causes of symptoms
 - Allow users to choose a language
 - Filter information to received more accurate results
