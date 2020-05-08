@@ -6,7 +6,7 @@ My research is to evaluate the design of a healthcare site -- Healthline. Health
 The purpose of this high fidelity proptotype is to convert the low fidelity wireframes into a high fidelity demo. With a high fidelity prototype, we are able to present our product in details and have target users validate the concepts. During the usability testing, the users can interact with the components, layouts, and colors to help us improve the product.
 
 Tasks:
-- 
+- Convert low fidelity prototype to high fidelity prototype
 - 
 - 
 
