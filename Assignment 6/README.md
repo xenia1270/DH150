@@ -64,8 +64,27 @@ Balsamiq Mockups:
 
 ## Testing the wireflow
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/IMG_0308.JPG)
+Note:
+- First screen: The section of "Things to be highlighted" may confuse the user
+- First screen: The user was not sure whether the symptom checker tool is clickable (it should be clearer in the Balsamiq mockups)
+- Second screen: It would be better to add a section that allows the user to enter detailed description of symptoms
+- Fifth screen: Should allow the user to leave message to the doctor before the meeting
+- Sixth screen: The user was kind of confused when to use the link
+- Seventh screen: The user was curious whether the meeting will be recored
+
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/IMG_0309.JPG)
+Note:
+- First screen: The search bar was not obvious
+- Fourth screen: The section should allow the user to search for related questions because f there are many questions people would not want to read all of them 
+- Eleventh screen: The user was confused about the side menu of the goal Tracker
+ 
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/IMG_0310.JPG)
+Note:
+- Menu: Include Articles with News
+- Second screen: Highlight each topic to notice users that the texts can be click on
+- Third screen: the Chatbox was too small, and the page should provide more contact methods for communication (it may not be assceesible for some people with disabilities)
+- Seventh screen: Notification of whether to record the meeting
+- Eighth screen: The user was not clear what the MAP suggested here 
 
 ## Reflection 
-I really enjoyed the process of creating the low-fidelity prototype because it gave me a sense of achievement to improve the website. Before I started drawing, I reviewed each persona's need and guessed which tools on the website can better help them to achieve their goals. 
+I really enjoyed the process of creating the low-fidelity prototype because it gave me a sense of achievement to improve the website. Before I started drawing, I reviewed each persona's need and guessed which tools on the website can better help them to achieve their goals. Overall, the testing with a low-fidelity prototype went smoothly. Before the user worked on each wireframe, I explained the three personas and what they want to achieve using the healthline website. The user was able to follow the wireflow to go through each screen. However, some places might be confusing for the user because he wasn't sure whether the buttons were clickable. Also, he noted that pages such as the appointment confirmation contains so much information that he was not confused which button he should click on. Moreover, the user noticed that all of my three wireframes contained the same online doctor feature, so he suggested providing another pathway to meet the person's need instead of using the online doctor for every case. 
