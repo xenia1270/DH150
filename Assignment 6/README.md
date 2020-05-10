@@ -44,7 +44,7 @@ Pencil Sketch:
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Cindy-Handsketch.JPG)
 
 Balsamiq Mockups:
-![]()
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Cindy%20Wireframe.png)
 
 ### Paul's Case
 Pencil Sketch:
