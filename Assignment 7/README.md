@@ -51,6 +51,12 @@ Tasks:
 ## Interactive prototype & Diagram
 Link to the prototype:https://www.figma.com/proto/umZ7583ao6VNpD4n4IUHMp/Assignment-07?node-id=1%3A695&viewport=7235%2C7551%2C0.7571569085121155&scaling=min-zoom
 
+Without interaction
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Wireframe.jpeg)
+
+With interaction
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Wireflow.jpeg)
+
 ## Cognitive walkthrough
 
 ## Reflection
