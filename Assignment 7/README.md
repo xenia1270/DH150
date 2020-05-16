@@ -22,12 +22,12 @@ Tasks:
 
 ### Description of decision making
 - Color: before I applied colors to the prototype, I ran the audits to check the color code on the original website. The audits showed the background and foreground colors do not have a sufficient contrast ratio. The foreground color is iris blue (#01ABD9) and the background color is white (#FFFFFF), which results in a 2.73:1 contrast ratio. To increase the brightness between two colors, I used WebAIM to adjust the lightness of the foreground color and checked which color will give a contrast ratio larger than 4.5:1 to target the WCAG (level2, AA) recommendation. I decided to use the bahama blue (#1F5A7F) for the foreground color with white background #FFFFFF. Some texts are in black font color (#000000), which has very high contrast with the white background. As for the original footer, the background color is light orange (#FBF5ED) and foreground colors include black (#000000), grey (#918F8F), and iris blue (#01ABD9). The color contrast between light orange and grey, light orange and iris blue are pretty low, so I decided to change the background color to seashell (FFF8F5), texts in grey are changed to black (#000000), and texts in iris blue (#01ABD9) are changed to bahama blue (#1F5A7F). 
-  - Note: the names of colors are found from https://www.htmlcsscolor.com/
+  - Note: the names of colors are found from <a href="https://www.htmlcsscolor.com/">HTML CSS Color Picker</a>
 - Images and icons: I tried to keep the original images choices like those on the articles, news, and doctor’s profile picture thumbnail. I changed the picture on the home page by including a picture of a doctor because the original home page contains too many images from different articles, which could not give users a good first impression. With an image of a doctor on the home page can convince users that lands on the website that the site is professional and trustworthy. I noticed that the healthline website does not have any icons, so I added some icons to some of the pages to engage users and communicate the ideas more effectively. 
 - Typography: the original font (Proxima Nova) looks legit and readable, and I wanted to keep the original font. However, I could not find the same font in Figma. I decided to use Source Sans Pro, which is one of the most used fonts on medical websites. 
   Sources:
-  - https://www.ilovewp.com/resources/medical/wordpress-for-hospitals/most-used-google-fonts-on-hospital-websites/
-  - https://o360.com/blogs/choosing-the-right-typography-for-your-medical-website/
+  - <a href="https://www.ilovewp.com/resources/medical/wordpress-for-hospitals/most-used-google-fonts-on-hospital-websites/">Most Used Google Fonts on Hospital Websites</a>
+  - <a href="https://o360.com/blogs/choosing-the-right-typography-for-your-medical-website/">Choosing the Right Typography for Your Medical Website</a>
 - Button corner radius: the buttons on the original website have sharp corners, which is too rigid and less distinguishable. To make buttons more standout, I changed the corner radius to 10 to keep the site’s professionalism and reduce distraction. 
 
 
