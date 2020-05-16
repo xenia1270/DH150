@@ -25,12 +25,12 @@ Tasks:
 ## Accessibility (color-contrast) check
 ### Before
 ![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker2.png)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker3.png)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.png)
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker3.jpeg)
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.jpeg)
 
 ### After
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker5.png)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker6.png)
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker5.jpeg)
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker6.jpeg)
 
 ## Interactive prototype
 Link to the prototype:https://www.figma.com/proto/umZ7583ao6VNpD4n4IUHMp/Assignment-07?node-id=1%3A695&viewport=7235%2C7551%2C0.7571569085121155&scaling=min-zoom
