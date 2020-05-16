@@ -25,6 +25,7 @@ Tasks:
 ## Accessibility (color-contrast) check
 ### Before
 
+
 ## Interactive prototype
 Link to the prototype:https://www.figma.com/proto/umZ7583ao6VNpD4n4IUHMp/Assignment-07?node-id=1%3A695&viewport=7235%2C7551%2C0.7571569085121155&scaling=min-zoom
 
