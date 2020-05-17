@@ -37,26 +37,31 @@ Tasks:
 ## Impression test
 Link to impression test: https://www.youtube.com/watch?v=Hx2xwZsz4VM
 
+Summary of findings:
+- The user's first impression was an image of two men (but actually there's only one man) and the color blue
+- The user believed the color blue matched the theme of the healthcare website, and the image reflected a sense of professionalism 
+- Even though the user felt the size of the image looked good to him, he could not recall the "wellness tool" section below the image during the 5-second impression test. Therefore, I'm considering whether I should adjust the size of the content in the landing page. 
+
 ## Accessibility (color-contrast) check
 ### Before
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker1.jpeg)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker2.png)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker3.jpeg)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.jpeg)
+![color-contrast 1](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker1.jpeg)
+![color-contrast 2](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker2.png)
+![color-contrast 3](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker3.jpeg)
+![color-contrast 4](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.jpeg)
 
 ### After
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker5.jpeg)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker6.jpeg)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.jpeg)
+![color-contrast 5](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker5.jpeg)
+![color-contrast 6](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker6.jpeg)
+![color-contrast 7](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.jpeg)
 
 ## Interactive prototype & Diagram
 Link to the prototype:https://www.figma.com/proto/umZ7583ao6VNpD4n4IUHMp/Assignment-07?node-id=1%3A695&viewport=7235%2C7551%2C0.7571569085121155&scaling=min-zoom
 
 Without interaction
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Wireframe.jpeg)
+![Wireframe](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Wireframe.jpeg)
 
 With interaction
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Wireflow.jpeg)
+![Wireflow](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Wireflow.jpeg)
 
 ## Cognitive walkthrough
 
@@ -64,6 +69,7 @@ With interaction
 Link to UT: https://www.youtube.com/watch?v=XBQid_JGuh8
 
 ## Revision(s)
+![Revision after UT](https://github.com/xenia1270/DH150/blob/master/Assignment%207/revision1.jpeg)
 
 ## Reflection
 
