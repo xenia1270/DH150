@@ -71,6 +71,17 @@ Link to UT: https://www.youtube.com/watch?v=XBQid_JGuh8
 ## Revision(s)
 ![Revision after UT](https://github.com/xenia1270/DH150/blob/master/Assignment%207/revision1.jpeg)
 
+Note of changes:
+- Enable View/Print PDF and Download button for users to print their medical records 
+- Resize the map on the medical records page
+- Change the button shape on the confirmation page
+- Specify the articles are written by professionals and have fact checked
+- Allow users to type in keywords using their keyboards
+- Separate article and discussion board
+- Add a pathway on the top of the article to remind users how to get back to the last page they were on
+- Re-design the goal checker page, so users can write notes if they want instead of just checking the boxes
+- Add interation on the goal checker page
+
 ## Reflection
 
 
