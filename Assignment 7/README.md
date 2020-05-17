@@ -35,6 +35,7 @@ Tasks:
 
 
 ## Impression test
+Link to impression test: https://www.youtube.com/watch?v=Hx2xwZsz4VM
 
 ## Accessibility (color-contrast) check
 ### Before
@@ -60,6 +61,7 @@ With interaction
 ## Cognitive walkthrough
 
 ## Usability Testing
+Link to UT: https://www.youtube.com/watch?v=XBQid_JGuh8
 
 ## Revision(s)
 
