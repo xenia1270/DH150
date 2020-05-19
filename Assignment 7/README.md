@@ -13,6 +13,7 @@ Recall three features:
 Purpose: The purpose of this high fidelity prototype is to convert the low fidelity wireframes into a high fidelity demo. With a high fidelity prototype, we are able to present our product in details and have target users validate the concepts. During the usability testing, the users can interact with the components, layouts, and colors to help us improve the product. 
 
 Process: I first converted the idea from the low fidelity wireframes by setting up the header, footer, menu, and contents in each page. Then I add buttons and icons to increase clarity and readability. I also applied the layout grid (12 column) to ensure consistency across the page. Next, I adjusted the color of the buttons and texts by using Contrast Checker. Lastly, I added the interaction to each button and made sure they were assigned to the correct page. 
+![layout grid](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Layout%20grid.jpeg)
 
 
 Tasks:
@@ -55,11 +56,13 @@ Summary of findings:
 ![color-contrast 2](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker2.png)
 ![color-contrast 3](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker3.jpeg)
 ![color-contrast 4](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.jpeg)
+![color-contrast 4](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker7.jpeg)
 
 ### After
 ![color-contrast 5](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker5.jpeg)
 ![color-contrast 6](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker6.jpeg)
 ![color-contrast 7](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.jpeg)
+![color-contrast 4](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker8.jpeg)
 
 ## Interactive prototype & Diagram
 Link to the prototype:https://www.figma.com/proto/umZ7583ao6VNpD4n4IUHMp/Assignment-07?node-id=1%3A695&viewport=7235%2C7551%2C0.7571569085121155&scaling=min-zoom
