@@ -27,7 +27,7 @@ Tasks:
 
 ## Graphic design
 ### Representative screen designs
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/representative%20examples.jpeg)
+![](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Representative%20screens.jpeg)
 
 ### Description of decision making
 - Color: before I applied colors to the prototype, I ran the audits to check the color code on the original website. The audits showed the background and foreground colors do not have a sufficient contrast ratio. The foreground color is iris blue (#01ABD9) and the background color is white (#FFFFFF), which results in a 2.73:1 contrast ratio. To increase the brightness between two colors, I used WebAIM to adjust the lightness of the foreground color and checked which color will give a contrast ratio larger than 4.5:1 to target the WCAG (level2, AA) recommendation. I decided to use the bahama blue (#1F5A7F) for the foreground color with white background (#FFFFFF). Some texts are in black font color (#000000), which has very high contrast with the white background. As for the original footer, the background color is light orange (#FBF5ED) and foreground colors include black (#000000), grey (#918F8F), and iris blue (#01ABD9). The color contrast between light orange and grey, light orange and iris blue are pretty low, so I decided to change the background color to seashell (FFF8F5), texts in grey are changed to black (#000000), and texts in iris blue (#01ABD9) are changed to bahama blue (#1F5A7F). 
