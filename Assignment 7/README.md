@@ -56,13 +56,13 @@ Summary of findings:
 ![color-contrast 2](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker2.png)
 ![color-contrast 3](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker3.jpeg)
 ![color-contrast 4](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.jpeg)
-![color-contrast 4](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker7.jpeg)
+![color-contrast 9](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker9.jpeg)
 
 ### After
 ![color-contrast 5](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker5.jpeg)
 ![color-contrast 6](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker6.jpeg)
 ![color-contrast 7](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker4.jpeg)
-![color-contrast 4](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker8.jpeg)
+![color-contrast 10](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker10.jpeg)
 
 ## Interactive prototype & Diagram
 Link to the prototype:https://www.figma.com/proto/umZ7583ao6VNpD4n4IUHMp/Assignment-07?node-id=1%3A695&viewport=7235%2C7551%2C0.7571569085121155&scaling=min-zoom
