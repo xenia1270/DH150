@@ -73,9 +73,25 @@ Without interaction
 With interaction
 ![Wireflow](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Wireflow.jpeg)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FumZ7583ao6VNpD4n4IUHMp%2FAssignment-07%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
+
 ## Cognitive walkthrough (Quotes from remote group)
-- 
-- 
+- On Symptom Checker page: 
+  - "I don't fully understand what this box is. Is it a menu? but it has checkboxes which makes me think I can select more than one?" 
+  - "I think to follow the same pattern as the rest of the page, I would left justify the text. Also being next to the check box makes it easier to follow/make sure its the right box to check."
+  - "I also am not entirely sure what the function of this is."
+- On Symptom Result page: 
+  - "Maybe saying "click here" is redundant? it feels like a very long block of text. Maybe the button could just say something like "Schedule a doctor appointment."" 
+  - "This seems like a lot of unused white space, maybe shorten page."
+- On main menu: "Does this also allow me to find an online doctor? I'm just curious."
+- "Why does clicking on tools lead me to the symptoms page?"
+- On Health Topics page: 
+  - "Maybe having some suggested health topics would be useful here."
+  - "Is the keyboard necessary? would users not use the one on their computer or phone?"
+- On Goal Tracker page: "Maybe have some indication of the date would be helpful? or what week this is being logged for."
+- On Home page: 
+  - "This is really nit picky but I would like a bit more pink border on this side."
+  - "I think creating more of a difference in text size between the title here and the options below, and also the 'wellness tools' header and the options below it would give more of a sense of categorization upon first glance."
 
 ## Usability Testing
 Link to UT: https://www.youtube.com/watch?v=XBQid_JGuh8
