@@ -73,9 +73,10 @@ Without interaction
 With interaction
 ![Wireflow](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Wireflow.jpeg)
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FumZ7583ao6VNpD4n4IUHMp%2FAssignment-07%3Fnode-id%3D0%253A1&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
-## Cognitive walkthrough (Quotes from remote group)
+## Cognitive walkthrough
+
+Quotes from remote group
 - On Symptom Checker page: 
   - "I don't fully understand what this box is. Is it a menu? but it has checkboxes which makes me think I can select more than one?" 
   - "I think to follow the same pattern as the rest of the page, I would left justify the text. Also being next to the check box makes it easier to follow/make sure its the right box to check."
@@ -92,6 +93,10 @@ With interaction
 - On Home page: 
   - "This is really nit picky but I would like a bit more pink border on this side."
   - "I think creating more of a difference in text size between the title here and the options below, and also the 'wellness tools' header and the options below it would give more of a sense of categorization upon first glance."
+  
+Summary of findings:
+- Some of the feature on the tools' pages are confusing. For example, they did not know why the Tools page would take them to the Symptom Checkers, which was the first page of the Tools. They found that the side menu with checkboxs was unclear as they did not know whether these were one of the selections/choices or buttons to use other tools. 
+- Some buttons contained too many words, so I should cut down to make it look clearer. 
 
 ## Usability Testing
 Link to UT: https://www.youtube.com/watch?v=XBQid_JGuh8
@@ -114,8 +119,6 @@ Note of changes:
 Revision #2 (after in class cognitive walkthrough)
 
 ## Reflection
-
-
 
 
 
