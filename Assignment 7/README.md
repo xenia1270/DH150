@@ -43,7 +43,7 @@ Tasks:
 
 
 ## Impression test
-<a href="https://www.youtube.com/watch?v=Hx2xwZsz4VM>Link</a> to impression test: 
+<a href="https://www.youtube.com/watch?v=Hx2xwZsz4VM">Link to impression test</a> 
 
 Summary of findings:
 - The user's first impression was an image of two men (but actually there's only one man) and the color blue
@@ -70,7 +70,7 @@ One of the text color on the original site is vivid pink (#E0218E) when users ho
 ![color-contrast 12](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker12.jpeg)
 
 ## Interactive prototype & Diagram
-Link to the prototype:https://www.figma.com/proto/umZ7583ao6VNpD4n4IUHMp/Assignment-07?node-id=1%3A695&viewport=7235%2C7551%2C0.7571569085121155&scaling=min-zoom
+<a href="https://www.figma.com/proto/umZ7583ao6VNpD4n4IUHMp/Assignment-07?node-id=1%3A695&viewport=7235%2C7551%2C0.7571569085121155&scaling=min-zoom">Link to the prototype</a>
 
 Without interaction
 ![Wireframe](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Wireframe.jpeg)
@@ -106,7 +106,7 @@ Summary of findings:
 - The text size of title should be adjusted to make the it more distinguishable.
 
 ## Usability Testing
-Link to UT: https://www.youtube.com/watch?v=XBQid_JGuh8
+<a href="https://www.youtube.com/watch?v=XBQid_JGuh8">Link to UT</a>
 
 ## Revision(s)
 Revision #1
