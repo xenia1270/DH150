@@ -108,17 +108,27 @@ Revision #1
 ![Revision after UT](https://github.com/xenia1270/DH150/blob/master/Assignment%207/revision1.jpeg)
 
 Note of changes:
-- Enable View/Print PDF and Download button for users to print their medical records 
-- Resize the map on the medical records page
-- Change the button shape on the confirmation page
-- Specify the articles are written by professionals and have fact checked
-- Allow users to type in keywords using their keyboards
-- Separate article and discussion board
-- Add a pathway on the top of the article to remind users how to get back to the last page they were on
-- Re-design the goal checker page, so users can write notes if they want instead of just checking the boxes
-- Add interation on the goal checker page
+- Enabled View/Print PDF and Download button for users to print their medical records 
+- Resized the map on the medical records page
+- Changed the button shape on the confirmation page
+- Specified the articles are written by professionals and have fact checked
+- Allowed users to type in keywords using their keyboards
+- Separated article and discussion board
+- Added a pathway on the top of the article to remind users how to get back to the last page they were on
+- Re-designed the goal checker page, so users can write notes if they want instead of just checking the boxes
+- Added interation on the goal checker page
 
 Revision #2 (after in class cognitive walkthrough)
+
+
+Note of changes:
+- Removed the side menu on Symptom Checker page and added a page listing all the tools
+  - The plan was to add a drop-down menu so that users can see what items are included when hovering over the "Tools." However, I realized that I may need to add it on every page. Instead, I decided to create a Tools page so when users click into the Tools page they can see what kind of tools are available.
+- Remove the "Help" item from the menu since I realized it might be redundant
+- Included some suggested topics on the Health Topics page
+- Simplified the apoointment scheduling button
+- Included a calendar on the Goal Tracker page
+- Change in font of site title to Source Serif Pro to make it more discernible
 
 ## Reflection
 
