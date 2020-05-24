@@ -81,11 +81,12 @@ Quotes from remote group
   - "I don't fully understand what this box is. Is it a menu? but it has checkboxes which makes me think I can select more than one?" 
   - "I think to follow the same pattern as the rest of the page, I would left justify the text. Also being next to the check box makes it easier to follow/make sure its the right box to check."
   - "I also am not entirely sure what the function of this is."
-- On Symptom Result page: 
+- On Symptom Results page: 
   - "Maybe saying "click here" is redundant? it feels like a very long block of text. Maybe the button could just say something like "Schedule a doctor appointment."" 
   - "This seems like a lot of unused white space, maybe shorten page."
-- On main menu: "Does this also allow me to find an online doctor? I'm just curious."
-- "Why does clicking on tools lead me to the symptoms page?"
+- On main menu: 
+  - "Does this also allow me to find an online doctor? I'm just curious."
+  - "Why does clicking on tools lead me to the symptoms page?"
 - On Health Topics page: 
   - "Maybe having some suggested health topics would be useful here."
   - "Is the keyboard necessary? would users not use the one on their computer or phone?"
@@ -97,6 +98,7 @@ Quotes from remote group
 Summary of findings:
 - Some of the feature on the tools' pages are confusing. For example, they did not know why the Tools page would take them to the Symptom Checkers, which was the first page of the Tools. They found that the side menu with checkboxs was unclear as they did not know whether these were one of the selections/choices or buttons to use other tools. 
 - Some buttons contained too many words, so I should cut down to make it look clearer. 
+- The text size of title should be adjusted to make the it more distinguishable.
 
 ## Usability Testing
 Link to UT: https://www.youtube.com/watch?v=XBQid_JGuh8
@@ -120,11 +122,10 @@ Revision #2 (after in class cognitive walkthrough)
 
 ## Reflection
 
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FumZ7583ao6VNpD4n4IUHMp%2FAssignment-07%3Fnode-id%3D1%253A695%26viewport%3D4905%252C4730%252C0.49361246824264526%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
+The process of creating a high fidelity portfolio was smooth as a whole since I already had a pretty solid structure from low fidelity portfolio. Even though it took me a while to get familiar with Figma, it works well to visualze the information and interactive components. There were some setbacks when making decisions on colors and buttons. For example, when I made decision on changing the text and background color, I had to consider whether they have sufficient color contrast, and I will try to keep the color as close to the color on the original site as possible but with a higher contrast. Also, since the original site only has a hamburger menu and contain too many items in one navigation, I needed to redesign a horizontal site menu to help users find content easier. After I received feedbacks from my peers, I was able to improve my prototype to make it look more intuitive.
 
 ----------------------------------------------------------------------------------------------------------------------------
-Credit:
+Credits:
 - https://www.olark.com/api/system_hb_chatbox_size/
 - https://www.softwarepundit.com/practice-fusion
 - https://patient.info/forums/discuss/browse/depression-683
