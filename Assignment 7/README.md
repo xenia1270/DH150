@@ -43,7 +43,7 @@ Tasks:
 
 
 ## Impression test
-Link to impression test: https://www.youtube.com/watch?v=Hx2xwZsz4VM
+<a href="https://www.youtube.com/watch?v=Hx2xwZsz4VM>Link</a> to impression test: 
 
 Summary of findings:
 - The user's first impression was an image of two men (but actually there's only one man) and the color blue
@@ -124,7 +124,7 @@ Note of changes:
 - Added interation on the goal checker page
 
 Revision #2 (after in class cognitive walkthrough)
-https://github.com/xenia1270/DH150/blob/master/Assignment%207/revision2.jpeg
+![Revision after cw](https://github.com/xenia1270/DH150/blob/master/Assignment%207/revision2.jpeg)
 
 Note of changes:
 - Removed the side menu on Symptom Checker page and added a page listing all the tools
