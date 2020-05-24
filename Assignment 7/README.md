@@ -66,6 +66,8 @@ Summary of findings:
 
 ### Not sure whether to add to the prototype
 One of the text color on the original site is vivid pink (#E0218E) when users hover over the texts or buttons before they click on them. However, I was not sure whether I should included this color in my prototype since I did not want to mislead my peers/participants. I checked the color contrast between vivid pink and white background, and the ratio is 4.39. The text color should be at least strong pink (#D61F87) to create higher contrast from the white background.
+![color-contrast 11](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker11.jpeg)
+![color-contrast 12](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Checker12.jpeg)
 
 ## Interactive prototype & Diagram
 Link to the prototype:https://www.figma.com/proto/umZ7583ao6VNpD4n4IUHMp/Assignment-07?node-id=1%3A695&viewport=7235%2C7551%2C0.7571569085121155&scaling=min-zoom
