@@ -3,6 +3,7 @@
 
 I choose to focus on the home appliance business that provides innovative products to serve consumers in their everyday life. I feel obsessed with everyday gadgets because they offer assistance in our daily life and help us live a better lifestyle. I believe that not only the design of products that leads to the company’s success but also the accessibility of its website. In this assignment, I choose two home appliance companies that have different brand awareness. The first website is the website for Philips, which has a high level of brand awareness and has the most influential product design. The second website is the website for a local home appliance store called Home & Farm Kitchen Supply, which is welcome by local people for its unique cooking utensils. I hope to contribute to the UX design of these two websites and improve customer satisfaction and loyalty. 
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FumZ7583ao6VNpD4n4IUHMp%2FAssignment-07%3Fnode-id%3D1%253A695%26viewport%3D4905%252C4730%252C0.49361246824264526%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ### Website 1: Philips - https://www.usa.philips.com/
 
