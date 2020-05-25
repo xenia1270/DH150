@@ -136,6 +136,15 @@ Note of changes:
 - Included a calendar on the Goal Tracker page
 - Change in font of site title to Source Serif Pro to make it more discernible
 
+Revision #3 (Based on feedback from Assignment 06)
+![Revision #3](https://github.com/xenia1270/DH150/blob/master/Assignment%207/revision3.jpeg)
+![overflow](https://github.com/xenia1270/DH150/blob/master/Assignment%207/overflow.jpeg)
+
+Note of changes:
+- Added icons to menu
+- Remove "Health Professionals" from menu since the information will be presented under "Make an appointment"
+- I happened to find out how to make overlay as dropdown menu, so I included a dropdown menu for "Tools" 
+
 ## Reflection
 
 The process of creating a high fidelity portfolio was smooth as a whole since I already had a pretty solid structure from low fidelity portfolio. Even though it took me a while to get familiar with Figma, it works well to visualize the information and interactive components. There were some setbacks when making decisions on colors and buttons. For example, when I decided on changing the text and background color, I had to consider whether they have sufficient color contrast, and I will try to keep the color as close to the color on the original site as possible but with higher contrast. Also, since the original site only has a hamburger menu and contains too many items in one navigation, I needed to redesign a horizontal site menu to help users find content easier. After I received feedback from my peers, I made changes on some of the buttons and added a drop-down menu to make it look more intuitive.
