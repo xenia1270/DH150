@@ -155,4 +155,5 @@ Credits:
 - https://www.softwarepundit.com/practice-fusion
 - https://patient.info/forums/discuss/browse/depression-683
 - https://www.pinterest.com/pin/136937644899236124/
+- Icons are made from https://www.flaticon.com/home
 
