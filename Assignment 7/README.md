@@ -138,7 +138,9 @@ Note of changes:
 
 Revision #3 (Based on feedback from Assignment 06)
 ![Revision #3](https://github.com/xenia1270/DH150/blob/master/Assignment%207/revision3.jpeg)
+![menu](https://github.com/xenia1270/DH150/blob/master/Assignment%207/menu.jpeg)
 ![overflow](https://github.com/xenia1270/DH150/blob/master/Assignment%207/overflow.jpeg)
+
 
 Note of changes:
 - Added icons to menu
