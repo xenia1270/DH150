@@ -17,14 +17,14 @@ Process: I first converted the idea from the low fidelity wireframes by setting 
 ![layout grid](https://github.com/xenia1270/DH150/blob/master/Assignment%207/Layout%20grid.jpeg)
 
 
-Tasks:
-- Convert low fidelity prototype to high fidelity prototype
-- Create the header, footer, menu, and contents
-- Check the color contrast for the accessibility WCAG2.0 AA level
-- Test interactions of every buttons
-- Ensure legibility and readability by choosing a font style
-- Add appropriate icons to communicate a concept quickly
-
+Tasks the prototype demonstrates:
+- Enable users use Symptom Checker tool to check their possible causes of symptoms
+- Allow users to make an appointment with a online doctor
+- Allow users to review the summary of the meeting
+- Simplify the Health Topics page to make the search more intuitive
+- Provide Goal Tracker tool to increase customer loyalty
+- Optimize news/articles page to enable users focus on the topic they are interested in
+- Allow users to chat with a psychologist if needed
 
 ## Graphic design
 ### Representative screen designs
