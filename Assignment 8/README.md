@@ -2,10 +2,6 @@
 ## Xenia Zhou
 
 ### Introduction: a brief information about the project. 
-# Healthline UX Analysis
-## Xenia Zhou
-
-### Introduction: a brief information about the project. 
 
 My research is to evaluate the UX design of a healthcare site -- Healthline. I chose my project on health-related topic because more and more people care about their health, and people tend to explore health information online. Healthline is a healthcare website that provides health and wellness information. By collecting qualitative and quantitative data, we can get insights into how well the website supports users in accomplishing their goals. The research will be based on Jakob Nielsen's 10 Usability Heuristics to identify design issues on the Healthline website. The target users are people aged from 18 to 50 with wider familiarity with the online environment. After the Usability test, I was able to conduct both quantitative and qualitative studies to get insights into how people use health-related websites. These findings are useful for creating personas and prototypes to improve site features.
 
