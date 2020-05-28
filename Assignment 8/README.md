@@ -1,5 +1,5 @@
 # Healthline UX Analysis
-## Xenia Zhou
+## Jiaqi (Xenia) Zhou
 
 ### Introduction: a brief information about the project. 
 
