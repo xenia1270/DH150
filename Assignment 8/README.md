@@ -24,7 +24,7 @@ The purpose of UX storytelling is to see things from the user's point of view an
 <img src="https://xenia1270.github.io/DH150/Assignment%206/Cindy%20Wireframe.png">
 <img src="https://xenia1270.github.io/DH150/Assignment%206/Paul%20Wireframe.png">
 <img src="https://xenia1270.github.io/DH150/Assignment%206/Doria%20Wireframe.png">
-<img src="https://xenia1270/DH150.github.io/Assignment%207/Wireframe.jpeg">
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Wireframe.jpeg">
 
 ### Low-fidelity prototype (wireflow, assignment06)
 The purpose of this low-fidelity prototyping is to use limited time and resources to get insights into users' needs and receive feedback to detect and fix major interface issues. By using the Balsamiq tool to wireframe the interface, we can identify the pathways users take to complete the tasks and whether they understand the content. Since there are many medical terms on the healthcare website, it is important to accommodate people with different health literacy and different familiarity. With low-fidelity prototyping, we can invest more time and resources to optimize the user experience in the later stage. [...read more >](https://github.com/xenia1270/DH150/tree/master/Assignment%206)
