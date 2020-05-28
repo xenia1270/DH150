@@ -64,7 +64,7 @@ After
 <a href="https://www.youtube.com/watch?v=XBQid_JGuh8">Link to UT</a>
 
 ### Pitch video 
-[![Check this out](https://github.com/xenia1270/DH150/blob/master/Assignment%208/FireShot%20Capture%20172%20-%20Healthline_%20Medical%20information%20and%20health%20advice%20you%20can%20trust._%20-%20www.healthline.com.png)](https://www.youtube.com/watch?v=tmaTAq9p1xI&t=1176s)
+[![Check this out](https://github.com/img.youtube.com/vi/v=tmaTAq9p1xI&t=1176s/o.jpg)](https://www.youtube.com/watch?v=tmaTAq9p1xI&t=1176s)
 
 ### Conclusion: what did you learn throughout the process?
 When going through the UX design process, I've learned that it might be easy to create a website, but making a website that can fulfill users' needs is another story. Therefore, as a UX designer, we need to generate different users' needs and design a prototype that is user-friendly and accessible. It is not just simply presenting the content to the users, but how approachable is the content. 
