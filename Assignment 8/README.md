@@ -49,16 +49,13 @@ The user believed the color blue matched the theme of the healthcare website, an
 #### Accessibility (color-contrast) check
 Before
 
-<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker1.jpeg">
-<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker2.png">
-<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker3.jpeg">
-<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg>
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker1.jpeg"> | <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker2.png">
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker3.jpeg"> | <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg>
 <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker9.jpeg">
 
 After
 
-<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker6.jpeg">
-<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg">
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker6.jpeg"> | <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg">
 <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker10.jpeg">
 
 #### Usability Testing
