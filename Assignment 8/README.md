@@ -22,15 +22,15 @@ The purpose of UX storytelling is to see things from the user's point of view an
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
 <img src="https://xenia1270.github.io/DH150/Assignment%206/Cindy%20Wireframe.png">
-![](https://xenia1270.github.io/DH150/Assignment%206/Paul%20Wireframe.png)
-![](https://xenia1270.github.io/DH150/Assignment%206/Doria%20Wireframe.png)
-![](https://xenia1270/DH150.github.io/Assignment%207/Wireframe.jpeg)
+<img src="https://xenia1270.github.io/DH150/Assignment%206/Paul%20Wireframe.png">
+<img src="https://xenia1270.github.io/DH150/Assignment%206/Doria%20Wireframe.png">
+<img src="https://xenia1270/DH150.github.io/Assignment%207/Wireframe.jpeg">
 
 ### Low-fidelity prototype (wireflow, assignment06)
 The purpose of this low-fidelity prototyping is to use limited time and resources to get insights into users' needs and receive feedback to detect and fix major interface issues. By using the Balsamiq tool to wireframe the interface, we can identify the pathways users take to complete the tasks and whether they understand the content. Since there are many medical terms on the healthcare website, it is important to accommodate people with different health literacy and different familiarity. With low-fidelity prototyping, we can invest more time and resources to optimize the user experience in the later stage. [...read more >](https://github.com/xenia1270/DH150/tree/master/Assignment%206)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Cindy-Handsketch.JPG)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Paul-Handsketch.JPG)
-![](https://github.com/xenia1270/DH150/blob/master/Assignment%206/Doria-Handsketch.JPG)
+<img src="https://github.com/xenia1270/DH150/blob/master/Assignment%206/Cindy-Handsketch.JPG">
+<img src="https://github.com/xenia1270/DH150/blob/master/Assignment%206/Paul-Handsketch.JPG">
+<img src="https://github.com/xenia1270/DH150/blob/master/Assignment%206/Doria-Handsketch.JPG">
 
 ### High-fidelity prototype (functional/interactive prototype, assignment08)
 The process of creating a high fidelity portfolio was smooth as a whole since I already had a pretty solid structure from low fidelity portfolio. Even though it took me a while to get familiar with Figma, it works well to visualize the information and interactive components. There were some setbacks when making decisions on colors and buttons. For example, when I decided on changing the text and background color, I had to consider whether they have sufficient color contrast, and I will try to keep the color as close to the color on the original site as possible but with higher contrast. Also, since the original site only has a hamburger menu and contains too many items in one navigation, I needed to redesign a horizontal site menu to help users find content easier. After I received feedback from my peers, I made changes on some of the buttons and added a drop-down menu to make it look more intuitive. [...read more >](https://github.com/xenia1270/DH150/tree/master/Assignment%207)
@@ -49,17 +49,17 @@ The user believed the color blue matched the theme of the healthcare website, an
 #### Accessibility (color-contrast) check
 Before
 
-https://xenia1270.github.io/DH150/Assignment%207/Checker1.jpeg
-https://xenia1270.github.io/DH150/Assignment%207/Checker2.png
-https://xenia1270.github.io/DH150/Assignment%207/Checker3.jpeg
-https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg
-https://xenia1270.github.io/DH150/Assignment%207/Checker9.jpeg
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker1.jpeg">
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker2.png">
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker3.jpeg">
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg>
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker9.jpeg">
 
 After
 
-https://xenia1270.github.io/DH150/Assignment%207/Checker6.jpeg
-https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg
-https://xenia1270.github.io/DH150/Assignment%207/Checker10.jpeg
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker6.jpeg">
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg">
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker10.jpeg">
 
 #### Usability Testing
 <a href="https://www.youtube.com/watch?v=XBQid_JGuh8">Link to UT</a>
