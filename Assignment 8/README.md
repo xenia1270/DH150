@@ -21,7 +21,7 @@ The purpose of UX storytelling is to see things from the user's point of view an
 
 ### Wireframe and graphic design element variation [assignment06 + part of 07]
 
-![](https://xenia1270.github.io/DH150/Assignment%206/Cindy%20Wireframe.png)
+<img src="https://xenia1270.github.io/DH150/Assignment%206/Cindy%20Wireframe.png">
 ![](https://xenia1270.github.io/DH150/Assignment%206/Paul%20Wireframe.png)
 ![](https://xenia1270.github.io/DH150/Assignment%206/Doria%20Wireframe.png)
 ![](https://xenia1270/DH150.github.io/Assignment%207/Wireframe.jpeg)
