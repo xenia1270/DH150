@@ -50,7 +50,7 @@ The user believed the color blue matched the theme of the healthcare website, an
 Before
 
 <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker1.jpeg"> | <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker2.png">
-<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker3.jpeg"> | <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg>
+<img src="https://xenia1270.github.io/DH150/Assignment%207/Checker3.jpeg"> | <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker4.jpeg">
 <img src="https://xenia1270.github.io/DH150/Assignment%207/Checker9.jpeg">
 
 After
